@@ -22,7 +22,7 @@ module.exports = {
     author: "ArYAN",
     countDown: 5,
     role: 0,
-    prefix: true,
+    nixPrefix: true,
     category: "utility",
     description: "Bot will say your message in voice",
     guide: {
