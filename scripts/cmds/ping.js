@@ -4,7 +4,7 @@ module.exports = {
     aliases: [],
     version: "1.0.0",
     author: "ArYAN",
-    prefix: true,
+    nixPrefix: true,
     role: 0,
     category: "utility",
     description: "Check bot response time.",
